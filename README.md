@@ -1,5 +1,5 @@
 # Materials
-2x RP2040 waveshare  
+2x RP2040-zero waveshare  
 1x Left PCB  
 1x Right PCB  
 1x Top Left Case  
