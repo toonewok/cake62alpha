@@ -13,7 +13,7 @@
 14x M2 brass inserts  
 1x TRS 3.5mm cable  
 1x USB C cable  
-2.54mm pinheaders  
+2.54mm pinheaders(male)  
 2mm foam(optional)  
 <br>
 
