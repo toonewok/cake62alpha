@@ -18,7 +18,7 @@
 <br>
 
 # Assembly
-<p>Assembly is relatively self-explanatory, the only thing to call out is that you will need to solder a patch wire from pin 28 to pin 8. The yellow path on the following image will show you where that is -</p>  
+<p>Assembly is relatively self-explanatory, the only thing to call out is that you will need to solder a patch wire from pin 28 to pin 8. The yellow path on the following image will show you where that is(I do this on the bottom side of the PCB after attaching the RP2040 to the PCB) -</p>  
 <img src="https://github.com/toonewok/cake62alpha/blob/master/patch.png">  
 <br>
 
