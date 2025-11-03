@@ -28,4 +28,4 @@
 <p>Any keymap changes are made in the code.py, be sure to modify both halves</p>
 
 # Default Keymap
-<img src="https://github.com/toonewok/cake62alpha/blob/master/keymap.png"
+<img src="https://github.com/toonewok/cake62alpha/blob/master/keymap.png">
